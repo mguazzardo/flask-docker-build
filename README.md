@@ -12,3 +12,5 @@ Run application:
 ```
 docker run -d -p 5000:5000 sunlnx/flask-app:latest
 ```
+
+This repo also containes *Jenkinsfile* where you can deploy your code using Jenkins pipeline and try to build your images
